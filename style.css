@@ -1,0 +1,35 @@
+
+.size {
+    height:30px;
+    width:30px;
+}
+.container{
+    margin-top: 40px;
+}
+
+ul {
+    margin-left: 70%;
+    
+}
+
+li {
+    display: inline-block;
+    border-bottom: 3px solid orange;
+    margin: 20px;
+}
+
+.logo{
+    margin-left: 40px;
+    margin-bottom: -60px;
+}
+
+.logo h4 {
+    border: 3px black solid;
+    display: inline;
+    padding: 10px;
+}
+
+.intro {
+    background-color: grey;
+    height: 
+}
