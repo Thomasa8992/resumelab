@@ -68,7 +68,7 @@ text-transform: uppercase;
     
 }
 
-li {
+.details, li {
     list-style-type:none;
     
 }
@@ -85,23 +85,74 @@ li {
 }
 
 .experience {
-    max-width: 1000px;
-    margin-left: 100px;
+    
+    margin-left: 80px;
 }
 
 .contain {
     max-width: 400px;
     display: inline-block;
     height: 200px;
-    padding: 20px;
+    padding: 40px;
 }
 
-hr {
+project {
+    max-width: 1000px;
+    
+}
+
+.project-images {
+    height:200px;
+    margin: none;
+}
+
+.contact {
+    padding-bottom: 70px;
+}
+
+form {
+    margin-left: 400px;
+    
+}
+
+ input {
+   height: 30px;
+   width: 500px;
+   display: block;
+   margin-bottom: 15px;
+   background-color: lightgrey;
+   color: grey;
+ }
+
+ .comment::placeholder  {
+    color: red;
+    margin-top: 30px;
+}
+
+ button {
+     height: 30px;
+     width: 60px;
+     margin-left: 445px;
+     color:white;
+     background-color: orangered;
+     border-radius: 5px;
+ }
+ .comment {
+     height: 150px;
+ }
+
+.images {
+    margin-left: 500px;
+}
 
 .size {
     height:30px;
     width:30px;
 }
 
+.bye {
+    display: inline-block;
+    padding: 20px;
+}
 
 
